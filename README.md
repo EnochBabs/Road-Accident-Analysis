@@ -49,7 +49,7 @@ Each Problem Statement have been answered through using different Visualization 
 ## Conclusions 
 This was a project that was worth every of my time as it stretched my problem solving skill and also helped me master certain functions of the Programming Language.
 
-### PS: For more information, you cam check throught my codefile in itself. It's the IPYNB File.
+### PS: For more information, you can check through my code file itself. It's the IPYNB File.
 However, to get to view the codes with the charts and visuals, you have to take the following steps:
 1. Open this link 'http://nbviewer.jupyter.org/
 2. paste this link within the link above 'https://github.com/EnochBabs/Road-Accident-Analysis/blob/main/Road%20Accident%20Analysis%20Code.ipynb'
