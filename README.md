@@ -54,7 +54,7 @@ However, to get to view the codes with the charts and visuals, you have to take 
 1. Open this link 'http://nbviewer.jupyter.org/
 2. paste this link within the link above 'https://github.com/EnochBabs/Road-Accident-Analysis/blob/main/Road%20Accident%20Analysis%20Code.ipynb'
 
-Thnak you!
+Thank you!
 
 
 
